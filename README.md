@@ -20,7 +20,6 @@ R Shiny application for exploring the Idrija dataset stored in Excel workbooks. 
 ├── vsi_podatki_2.xlsx          # Additional dataset/workbook
 ├── vsi_podatki.xlsx            # Additional dataset/workbook
 ├── vsi_pod.xlsx                # Additional dataset/workbook
-├── Dominik_lisaji.Rproj        # RStudio project file
 └── .gitignore
 ```
 
